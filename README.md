@@ -135,12 +135,12 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavMakina&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavMakina&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
@@ -148,14 +148,14 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BhargavMakina&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BhargavMakina&theme=onedark&no-frame=true&margin-w=15&row=1&column=7&v=1" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
 </div>
 
 ---
@@ -187,7 +187,7 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ---
 
 <div align="center">
-  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-quotes.vercel.app/quote?theme=tokyonight&v=1" alt="Dev Quote" />
 </div>
 
 ---
@@ -195,12 +195,9 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ## 🔗 Connect With Me
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.linkedin.com/in/bhargav-makina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vmakina@dataeconomy.ai"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="http://bmakina-portfolio-site.s3-website-us-east-1.amazonaws.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 </div>
 
 <br/>
