@@ -5,8 +5,8 @@
 
 <div align="center">
 
-  <!-- Animated gradient banner (3D-style cylinder render) -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=Makina%20Venkata%20Bhargav&fontSize=38&fontAlignY=55&fontColor=ffffff&desc=Senior%20Frontend%20Engineer%20·%20React%20·%20Micro%20Frontends&descAlignY=85&descSize=14&animation=fadeIn" width="100%" alt="Banner"/>
+  <!-- Animated waving banner with twinkling stars (real SMIL animation) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,2,5,30&height=220&section=header&text=Makina%20Venkata%20Bhargav&fontSize=42&fontAlignY=38&fontColor=ffffff&desc=Senior%20Frontend%20Engineer%20%C2%B7%20React%20%C2%B7%20Micro%20Frontends&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Animated banner"/>
 
   <!-- Minimal typing tagline -->
   <a href="https://github.com/BhargavMakina">
@@ -78,15 +78,28 @@ learning:    Cloud-native architectures
 
 <br/>
 
-<!-- Animated contribution snake — requires the Platane/snk action enabled in your profile repo -->
+### 🔺 3D Contribution City
+
+<!-- Isometric 3D contribution chart with growing animation (yoshi389111/github-profile-3d-contrib) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BhargavMakina/BhargavMakina/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhargavMakina/BhargavMakina/main/profile-3d-contrib/profile-season-animate.svg" alt="3D isometric contribution chart" width="100%" />
 </div>
 
 <br/>
 
+### 🐍 Contribution Snake (animated GIF)
+
+<!-- True animated GIF — the snake actually moves and eats your contributions -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=1a1b27&color=60a5fa&line=60a5fa&point=ffffff&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/BhargavMakina/BhargavMakina/output/github-contribution-grid-snake.gif" alt="Animated contribution snake" width="100%" />
+</div>
+
+<br/>
+
+### 📈 Activity Pulse
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=0d1117&color=60a5fa&line=60a5fa&point=ffffff&area=true&area_color=3b82f6&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="100%" />
 </div>
 
 ---
