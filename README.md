@@ -135,12 +135,12 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavMakina&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=BhargavMakina&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&v=1" alt="Top Languages" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavMakina&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" width="50%" />
 </div>
 
 <br/>
@@ -148,14 +148,14 @@ A modern frontend engineer building scalable enterprise-grade data analytics and
 ## 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BhargavMakina&theme=onedark&no-frame=true&margin-w=15&row=1&column=7&v=1" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BhargavMakina&theme=onedark&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=FFFFFF&area=true&hide_border=true&v=1" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavMakina&bg_color=1a1b27&color=3b82f6&line=3b82f6&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
